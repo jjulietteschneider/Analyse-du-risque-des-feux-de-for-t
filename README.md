@@ -1,7 +1,7 @@
-# Analyse du risque des feux de foret
+## Analyse du risque des feux de foret
 Projet de Statistiques Appliquées effectué de novembre 2023 à mai 2024
- **Encadrants** : Antoine Heranval, Thomas Peyrat
- **Etudiants** : Olivier Pinatel, Margaux Duperier, Juliette Schneider
+ **Encadrants** : Antoine Heranval, Thomas Peyrat  
+ **Etudiants** : Olivier Pinatel, Margaux Duperier, Juliette Schneider  
  **Référent pédagogique** : Olivier Lopez
 
 Ce projet s'appuie principalement sur la Base de Données sur les Incendies de Forêts en France (BDIFF) et sur la base de données des IFM de 2006 à 2100 pour la région des Landes provenant du DRIAS.
